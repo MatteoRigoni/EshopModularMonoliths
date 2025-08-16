@@ -29,5 +29,3 @@ EshopModularMonoliths è un template/progetto didattico per costruire un **monol
 - **Observability**: log/metrics/tracing integrabili fin dall’inizio.
 - **Dev ergonomics**: script di avvio, hot reload, lint/format.
 
-## Struttura della soluzione
-
